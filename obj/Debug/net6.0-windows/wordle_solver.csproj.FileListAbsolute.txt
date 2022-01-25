@@ -1,0 +1,15 @@
+F:\Code\wordle_solver\bin\Debug\net6.0-windows\wordle_solver.exe
+F:\Code\wordle_solver\bin\Debug\net6.0-windows\wordle_solver.deps.json
+F:\Code\wordle_solver\bin\Debug\net6.0-windows\wordle_solver.runtimeconfig.json
+F:\Code\wordle_solver\bin\Debug\net6.0-windows\wordle_solver.dll
+F:\Code\wordle_solver\bin\Debug\net6.0-windows\ref\wordle_solver.dll
+F:\Code\wordle_solver\bin\Debug\net6.0-windows\wordle_solver.pdb
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.csproj.AssemblyReference.cache
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.AssemblyInfoInputs.cache
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.AssemblyInfo.cs
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.csproj.CoreCompileInputs.cache
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.dll
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\ref\wordle_solver.dll
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.pdb
+F:\Code\wordle_solver\obj\Debug\net6.0-windows\wordle_solver.genruntimeconfig.cache

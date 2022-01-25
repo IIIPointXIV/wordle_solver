@@ -1,0 +1,11 @@
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.csproj.AssemblyReference.cache
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.csproj.SuggestedBindingRedirects.cache
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.AssemblyInfoInputs.cache
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.AssemblyInfo.cs
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.csproj.CoreCompileInputs.cache
+F:\Code\wordle_solver\bin\Debug\net4.7.2\wordle_solver.exe.config
+F:\Code\wordle_solver\bin\Debug\net4.7.2\wordle_solver.exe
+F:\Code\wordle_solver\bin\Debug\net4.7.2\wordle_solver.pdb
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.exe
+F:\Code\wordle_solver\obj\Debug\net4.7.2\wordle_solver.pdb
